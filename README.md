@@ -16,7 +16,7 @@ I am a good team player, a people person, very adaptable and always ready to lea
 - 💼 Job interests: Software Engineer or Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](https://altschoolofengineeringkojo.kojosimtema.repl.co/) and contact me by emailing kojosimtema@gmail.com.
 
-## *Langauges and Tools*
+## *Languages and Tools*
 
 <img align="center" src="https://user-images.githubusercontent.com/53656050/192116071-9fca6c24-67a8-439b-9bd3-07d859009a3c.png" style="width:70px; height:70px" alt="javascript" /> <img align="center" src="https://user-images.githubusercontent.com/53656050/192115605-aebc5f03-6e81-4537-985a-6bdd7c95f83a.png" style="width:70px; height:70px" alt="python" /> <img align="center" src="https://user-images.githubusercontent.com/53656050/192115449-02c26cf0-a2aa-4b45-a5ef-0243ac26f200.png" style="width:70px; height:70px" alt="flask" /> <img align="center" src="https://user-images.githubusercontent.com/53656050/192116146-e0492e46-c9fe-4155-831d-f88edcc98182.png" style="width:140px; height:70px" alt="html-css" /> <img align="center" src="https://user-images.githubusercontent.com/53656050/192116251-da85e768-f18e-44bd-b38f-61da967e1fda.png" style="width:70px; height:70px" alt="git" /> 
 
