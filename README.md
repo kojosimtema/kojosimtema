@@ -14,7 +14,7 @@ I am a good team player, a people person, very adaptable and always ready to lea
 - 🌱 I’m currently learning JavaScript, Flask, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer or Backend Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://replit.com/@Kojosimtema/AltSchoolOfEngineeringKojo) and contact me by emailing kojosimtema@gmail.com.
+- 📫 You can [view my resume](https://altschoolofengineeringkojo.kojosimtema.repl.co/) and contact me by emailing kojosimtema@gmail.com.
 
 ## *Langauges and Tools*
 
